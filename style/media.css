@@ -50,6 +50,10 @@
     .footer__link, .footer__contact {
         color: var(--primary-text-color);
     }
+
+    .main__works-description {
+        color: var(--primary-text-color);
+    }
 }
 
 @media(max-width: 1024px) {
